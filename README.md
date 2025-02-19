@@ -43,7 +43,7 @@ The dataset is sourced from [Kaggle: Road Accident Severity in India](https://ww
    ```bash
    jupyter notebook
    ```
-4. Open `final.ipynb` to explore the analysis.
+4. Open `Accident_analysis.ipynb` to explore the analysis.
 
 ## Future Work
 

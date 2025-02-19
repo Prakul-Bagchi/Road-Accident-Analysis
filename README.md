@@ -1,4 +1,4 @@
-# Road Accident Severity Analysis
+# Road Accident Analysis
 
 ## Overview
 
@@ -27,7 +27,7 @@ The dataset is sourced from [Kaggle: Road Accident Severity in India](https://ww
 
 ## Jupyter Notebook
 
-📌 **View the Notebook**: [NBViewer Link (To be updated)](https://dummy-nbviewer-link.com)
+📌 **View the Notebook**: [NBViewer Link (https://nbviewer.org/github/Prakul-Bagchi/Road-Accident-Analysis/blob/main/Accident_analysis.ipynb)
 
 ## How to Use
 
